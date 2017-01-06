@@ -12,7 +12,7 @@
 ### Day 2: January 6, 2017
 
 
-**Today's Progress**: Finished 11 steps on FreeCodeCamp. From 217 -> 228.
+**Today's Progress**: Did steps on FreeCodeCamp. From 217 -> 234.
 
 **Thoughts:** Struggled a lot with step 224! Could not get my grip around it for ages it seemed, but once I understod it it was so obvious of course. The challange was to translate a case switch to a object table, and access the same keys.
 
