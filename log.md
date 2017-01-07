@@ -17,3 +17,13 @@
 **Thoughts:** Struggled a lot with step 224! Could not get my grip around it for ages it seemed, but once I understod it it was so obvious of course. The challange was to translate a case switch to a object table, and access the same keys.
 
 **Link to work:** [Bloody 224](https://github.com/Henkedanne/100-days-of-code/blob/master/exercise224)
+
+### Day 3: January 7, 2017
+
+
+**Today's Progress**: Continued on FreeCodeCamp. 
+
+**Thoughts:** A real struggle with 235! Finally got it to work. I Managed to mix up the attribute name in the function with the key in the object. Thought .hasOwnProperty was what I should use to check both cases. But I was supposed to match the attr against the key. (Not check if that key was there. (like .hasOwnProperty does)).
+
+**Link to work:** [235](https://github.com/Henkedanne/100-days-of-code/blob/master/235)
+
