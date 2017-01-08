@@ -27,3 +27,18 @@
 
 **Link to work:** [235](https://github.com/Henkedanne/100-days-of-code/blob/master/235)
 
+### Day 3: January 7, 2017
+
+
+**Today's Progress**: Continued on FreeCodeCamp,  Started Algorithm Challenges!
+
+**Thoughts:** "Check for Palindromes was fun". First I made it so that it would split the string in two( at half way), then reverse it, and check if it match then first half. It worked, but not with odd length strings... Then it struck me that I only needed to reverse the string and check against its ordinary state. =P. oh well.. 
+
+**Link to work:** no Link today
+
+
+
+
+
+
+
