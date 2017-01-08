@@ -27,7 +27,7 @@
 
 **Link to work:** [235](https://github.com/Henkedanne/100-days-of-code/blob/master/235)
 
-### Day 3: January 7, 2017
+### Day 4: January 8, 2017
 
 
 **Today's Progress**: Continued on FreeCodeCamp,  Started Algorithm Challenges!
