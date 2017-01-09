@@ -36,6 +36,16 @@
 
 **Link to work:** no Link today
 
+### Day 5: January 9, 2017
+
+
+**Today's Progress**: Continued on FreeCodeCamp,  Finished 2 Algorithm Challenges!
+
+**Thoughts:** I'm learning. I understand concepts that I didn't understand half a year ago! FUN!
+
+**Link to work:** no Link today
+
+
 
 
 
