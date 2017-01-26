@@ -45,10 +45,41 @@
 
 **Link to work:** no Link today
 
+### Day 6: January 10, 2017
 
 
+**Today's Progress**: Continued on FreeCodeCamp, Algorithm Challenges!
+
+**Thoughts:** Some of the challenges are realy challenging... =)
+
+**Link to work:** no Link today
+
+### Day 7 - 8: January 12 - 13, 2017
 
 
+**Today's Progress**: Continued on FreeCodeCamp, Algorithm Challenges!
+
+**Thoughts:** Soldiering on!
+**Link to work:** no Link today
+
+### Day 9 - 13: January 15 - 19, 2017
+
+
+**Today's Progress**: Finished the Basic Algorithm Challenges!
+
+**Thoughts:** Some of the challenges were really challenging... =)
+
+**Link to work:** no Link today
+
+
+### Day 14 - 16: January 24 - 26, 2017
+
+
+**Today's Progress**: Started coding the random quote generator.
+
+**Thoughts:** This is fun, and I know more than I thought.
+
+**Link to work:** no Link today
 
 
 
