@@ -81,5 +81,16 @@
 
 **Link to work:** https://github.com/Henkedanne/Quotegen
 
+### Day 17: January 28, 2017
+
+
+**Today's Progress**: Found a way finally to randomize a number and make it not appear twice in a row.
+
+**Thoughts:** I asked Håkan for help, but before gave him the code to take a look, I scratch my initial idea, which was to randomize a number and then setup some sort of flags that could check if the number hade been used before. I went with the array model instead. Where u set up an empty arr, and check if empty, fill it with x.length. then randomize a index based on the arr.length. use that index to pick the rand number in the arr and then slice the arr unding the same index. 
+The only problem is that there can be duplicates when the array refills.(!)
+
+**Link to work:** https://github.com/Henkedanne/Quotegen
+
+
 
 
