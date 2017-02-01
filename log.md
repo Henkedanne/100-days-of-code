@@ -98,6 +98,15 @@ The only problem is that there can be duplicates when the array refills.(!)
 
 **Link to work:** https://github.com/Henkedanne/Quotegen
 
+### Day 19: , 2017
+**Today's Progress**: Worked on some css stylings.
+
+**Thoughts:** almost done with the quotegen. Need to fix the tweet button!
+
+**Link to work:** https://github.com/Henkedanne/Quotegen
+
+
+
 
 
 
