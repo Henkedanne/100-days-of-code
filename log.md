@@ -105,6 +105,13 @@ The only problem is that there can be duplicates when the array refills.(!)
 
 **Link to work:** https://github.com/Henkedanne/Quotegen
 
+### Day 20: 5 February, 2017
+**Today's Progress**: Finished the quotegen!
+
+**Thoughts:** Fixed the tweet button.
+
+**Link to work:** https://github.com/Henkedanne/Quotegen
+
 
 
 
