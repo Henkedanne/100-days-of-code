@@ -112,8 +112,12 @@ The only problem is that there can be duplicates when the array refills.(!)
 
 **Link to work:** https://github.com/Henkedanne/Quotegen
 
+### Day 21: 8 February, 2017
+**Today's Progress**: Basic structure and style for the weather app.
 
+**Thoughts:** Up and running with a new project. Feels good and I have a good understanding of the art of starting up a new project.
 
+**Link to work:** https://github.com/Henkedanne/weather
 
 
 
