@@ -119,5 +119,10 @@ The only problem is that there can be duplicates when the array refills.(!)
 
 **Link to work:** https://github.com/Henkedanne/weather
 
+### Day 22: 12 February, 2017
+**Today's Progress**: Got the API fetch to work!
 
+**Thoughts:** I need to figure out how to get data from API into a var.
+
+**Link to work:** https://github.com/Henkedanne/weather
 
