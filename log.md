@@ -126,3 +126,8 @@ The only problem is that there can be duplicates when the array refills.(!)
 
 **Link to work:** https://github.com/Henkedanne/weather
 
+### Day 23: 19 February, 2017
+**Today's Progress**: Problems with http and https
+
+**Thoughts:** Found out that you now need https to be able to use geolocation. But fetching the api that is http, while coming from https is not allowed. Solved it by running the api through a reversed proxy. (https://cors.now.sh/)
+**Link to work:** https://github.com/Henkedanne/weather
