@@ -131,3 +131,9 @@ The only problem is that there can be duplicates when the array refills.(!)
 
 **Thoughts:** Found out that you now need https to be able to use geolocation. But fetching the api that is http, while coming from https is not allowed. Solved it by running the api through a reversed proxy. (https://cors.now.sh/)
 **Link to work:** https://github.com/Henkedanne/weather
+
+### Day 24: 20 February, 2017
+**Today's Progress**: Got the Temp in place!
+
+**Thoughts:** So good to get the api data working. Now I understand how fetch works, kinda... =)
+**Link to work:** https://github.com/Henkedanne/weather
