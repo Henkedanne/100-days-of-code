@@ -137,3 +137,9 @@ The only problem is that there can be duplicates when the array refills.(!)
 
 **Thoughts:** So good to get the api data working. Now I understand how fetch works, kinda... =)
 **Link to work:** https://github.com/Henkedanne/weather
+
+### Day 25: 21 February, 2017
+**Today's Progress**: Alomst everything in place. Loading wheel working, reloadbutton.
+
+**Thoughts:** Alot of progress today. The only things left would be the illustrated elements. and mobil responsiveness.
+**Link to work:** https://github.com/Henkedanne/weather
