@@ -143,3 +143,9 @@ The only problem is that there can be duplicates when the array refills.(!)
 
 **Thoughts:** Alot of progress today. The only things left would be the illustrated elements. and mobil responsiveness.
 **Link to work:** https://github.com/Henkedanne/weather
+### Day 26: 22 February, 2017
+**Today's Progress**: Everything in place according to the brief. 
+
+**Thoughts:** Ther is room to add forecasting.. Makes it more useful.
+**Link to work:** https://github.com/Henkedanne/weather
+
