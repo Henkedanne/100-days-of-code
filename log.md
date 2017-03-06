@@ -156,8 +156,15 @@ The only problem is that there can be duplicates when the array refills.(!)
 **Thoughts:** Fixing styles for mobile turned out to be difficult. Trying to figure out the differences in width for different devices. 
 **Link to work:** https://github.com/Henkedanne/weather
 
-### Day 28: 23 February, 2017
+### Day 28: 24 February, 2017
 **Today's Progress**: Started working on Showcase site for Tikurilla project
 
 **Thoughts:** I got at nice responsive coverpage set up. Getting the hang on display:flex 
 **Link to work:** https://github.com/Henkedanne/Tikurilla
+
+### Day 29: 6 March, 2017
+**Today's Progress**: Continued the showcase
+
+**Thoughts:** Got most set up. Introduced Github to David, Eric and Edite. We made our first pullrequest!
+**Link to work:** https://github.com/Henkedanne/Tikurilla
+
