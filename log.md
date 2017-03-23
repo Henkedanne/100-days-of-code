@@ -168,3 +168,9 @@ The only problem is that there can be duplicates when the array refills.(!)
 **Thoughts:** Got most set up. Introduced Github to David, Eric and Edite. We made our first pullrequest!
 **Link to work:** https://github.com/Henkedanne/Tikurilla
 
+### Day 30: 23 March, 2017
+**Today's Progress**: Showcase and wheaterapp
+
+**Thoughts:** Had a long break from this logging thing. I have been spending time learning and coding almost everyday but I find it hard to log it all. Atleast now I've worked with the weatherapp, added forcasting and styles. Also the showcase is coming along fine. Wrote my first function yesterday where I actually looked at code and thought "This is not DRY!!!! I need to rewrite this function". It was a cool insight!!!
+**Link to work:** https://github.com/Henkedanne/Tikurilla, https://github.com/Henkedanne/weather
+
