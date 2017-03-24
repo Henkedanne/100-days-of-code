@@ -174,3 +174,11 @@ The only problem is that there can be duplicates when the array refills.(!)
 **Thoughts:** Had a long break from this logging thing. I have been spending time learning and coding almost everyday but I find it hard to log it all. Atleast now I've worked with the weatherapp, added forcasting and styles. Also the showcase is coming along fine. Wrote my first function yesterday where I actually looked at code and thought "This is not DRY!!!! I need to rewrite this function". It was a cool insight!!!
 **Link to work:** https://github.com/Henkedanne/Tikurilla, https://github.com/Henkedanne/weather
 
+### Day 31: 23 March, 2017
+**Today's Progress**: worked on weatherapp
+
+**Thoughts:**  Fixed bugs with the forecasting. removed the min and max temp values. The data that comes from openweather is in 3 hrs increments. That makes it difficult to show the weather for the next day. Hopefully I've got the correct data now to always show 24 hrs infront. 
+**Link to work:**  https://github.com/Henkedanne/weather
+
+
+
