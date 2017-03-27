@@ -180,5 +180,11 @@ The only problem is that there can be duplicates when the array refills.(!)
 **Thoughts:**  Fixed bugs with the forecasting. removed the min and max temp values. The data that comes from openweather is in 3 hrs increments. That makes it difficult to show the weather for the next day. Hopefully I've got the correct data now to always show 24 hrs infront. 
 **Link to work:**  https://github.com/Henkedanne/weather
 
+### Day 32: 27 March, 2017
+**Today's Progress**: worked on weatherapp
+
+**Thoughts:**  Got sliding cards working. Instead of showing all the information at once. Now You only see one card at a time. Then you shuffle between them.  
+**Link to work:**  https://github.com/Henkedanne/weather
+
 
 
